@@ -5,7 +5,7 @@ I put about 400+ hours of my personal development time into this website's code 
 
 I don't have a copy of the DB Schema anymore, so you'll have to reverse-engineer it from the SQL queries in the code if you want to. Luckily, I was never fond of using TSQL, so all the queries are included in this code except for any Views.
 
-As this is being released under the MIT License, as long as you abide by those rules, you should be fine to do what you want with this code, but I would appreciate it if you gave credit to myself (Villanite) or Avinadal LLC when using this code somewhere in your version.
+As this is being released under the MIT license, as long as you abide by those rules, you should be fine to do what you want with this code, but I would appreciate it if you gave credit to myself (Villanite) or Avinadal LLC when using this code somewhere in your version.
 
 If you have any questions, feel free to ask them, but I make no guarantees that I can answer them anymore, as I last actively looked at this code in 2017.
 
